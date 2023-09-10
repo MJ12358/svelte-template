@@ -31,6 +31,12 @@
 </main>
 
 <style>
+  main {
+    flex: 1;
+    margin: 0 auto;
+    padding: 1rem;
+  }
+
   .logo {
     height: 6em;
     padding: 1.5em;
