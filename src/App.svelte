@@ -32,7 +32,11 @@
 
 <style>
   main {
+    align-items: center;
+    display: flex;
     flex: 1;
+    flex-direction: column;
+    justify-content: center;
     margin: 0 auto;
     padding: 1rem;
   }
