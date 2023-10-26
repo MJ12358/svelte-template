@@ -1,5 +1,5 @@
 {
-  "name": "vite_template",
+  "name": "svelte_template",
   "private": true,
   "version": "1.0.0",
   "type": "module",
@@ -9,10 +9,10 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "@sveltejs/vite-plugin-svelte": "^2.4.2",
-    "autoprefixer": "10.4.15",
-    "postcss": "8.4.29",
-    "svelte": "^4.0.5",
-    "vite": "^4.4.5"
+    "@sveltejs/vite-plugin-svelte": "2.4.6",
+    "autoprefixer": "10.4.16",
+    "postcss": "8.4.31",
+    "svelte": "4.2.2",
+    "vite": "4.5.0"
   }
 }
